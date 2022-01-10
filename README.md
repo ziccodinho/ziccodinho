@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zicco.dev
+- 👋 Hi, I’m @ziccodinho
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any frontend projects
